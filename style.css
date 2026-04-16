@@ -1,0 +1,229 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(rgb(207, 255, 195),rgb(113, 201, 221))  ;
+}
+header {
+    background-color: rgb(132, 253, 170);
+     
+     font-size: medium;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    float:left;
+}
+
+
+header p {
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.h {
+    text-align: center;
+}
+
+.house1 h3 {
+    text-align: left;
+}
+
+.house1 img {
+    width: 200px;
+    height: 150px;
+    float: right;
+    border-radius: 10px;
+}
+.house1 p {
+    color: rgb(48, 38, 7);
+}
+
+.house1 a {
+    font-size: medium;
+    color: black;
+    background-color: rgb(165, 168, 168);
+    border-radius: 5px;
+    padding: 10px;
+ box-shadow: 5px 5px 5px 0;
+
+}
+
+.house1 a:hover {
+    font-family:Lucida Sans Unicode, ;
+    color: black;
+    background-color: rgb(60, 244, 84);
+font-size: larger;
+transition: 2s background-color linear;
+}
+
+
+
+.hh h2 {
+    text-align: center;
+}
+
+.house2 img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 15px;
+    opacity: 0.3;
+    border: 2px dotted black;
+    border-radius: 50px;
+}
+
+.house2 img:hover {
+    opacity: 1;
+}
+
+.house3 img {
+    width: 100px;
+    height: 100px;
+    float: left;
+     margin-right: 15px;
+     opacity: 0.3;
+     border: 2px dotted black;
+     border-radius: 50px;
+}
+
+.house3 img:hover {
+    opacity: 1;
+}
+
+.house4 img {
+    width: 100px;
+    height: 100px;
+    float: left;
+     margin-right: 15px;
+opacity: 0.3;
+border: 2px dotted black;
+border-radius: 50px;
+}
+
+.house4 img:hover {
+    opacity: 1;
+}
+
+.house4 a {
+    margin-left: 250px;
+    padding: 10px;
+    
+    border-radius: 15px;
+    background-color: rgb(181, 250, 218) ;
+    color: green;
+    box-shadow: 5px 5px 5px 0;
+    transition: 0.5s ease-out;
+   
+}
+
+.house4 a:hover {
+    background-color: rgb(161, 255, 161);
+    color: rgb(0, 0, 0);
+    font-size: larger;
+   transition: 1.5s font-size ease-in ;
+   
+}
+
+
+
+.hhh h2 {
+    text-align: center;
+}
+
+.pro2 {
+    background-image: linear-gradient(to right,rgb(150, 231, 239),rgb(114, 238, 125));
+}
+
+.pro {
+    background-color: rgb(208, 253, 204);
+}
+
+.photo img {
+    width: 100px;
+    height: 100px;
+   float: right;
+   margin-top: 20px;
+}
+
+.footer img {
+    width: 30px;
+    height:30px;
+}
+
+.tr img {
+    width: 630px;
+    height: 250px;
+    opacity: 0.7;
+}
+
+.tr {
+    display: flex;
+    justify-content: center; 
+}
+
+
+.hhh  h2 {
+    text-align: center;
+}   
+
+.gallery {
+    display: flex;
+    width: 750px;
+    flex-wrap: wrap;
+   
+}
+
+.gallery img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+    transition: 0.5s ease-out;
+    margin-left: 15px;
+}
+
+
+.gallery img:hover {
+    opacity: 1;
+    margin: 10px;
+    border: 3px solid rgb(8, 52, 25);
+    transition: 0.5s ease-out;
+}
+
+.hhhh p {
+    text-align: center;
+}
+
+
+.place {
+    background-color: rgb(194, 231, 255);
+}
+
+.partner h2{
+    text-align: center;
+}
+
+
+.pp {
+    display: flex;
+    justify-content: center;
+}
+
+.pp a {
+    background-color: rgb(230, 247, 241);
+    color: black;
+   padding-left: 50px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 50px;
+   border-radius: 5px;
+   margin: 10px;
+}
+
+.pp a:hover {
+    background-color: rgb(233, 233, 233);
+}
