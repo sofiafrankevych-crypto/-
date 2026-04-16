@@ -110,7 +110,7 @@ border-radius: 50px;
 }
 
 .house4 a {
-    margin-left: 250px;
+    float:left;
     padding: 10px;
     
     border-radius: 15px;
